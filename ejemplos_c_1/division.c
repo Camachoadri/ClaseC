@@ -33,5 +33,9 @@ int main(void)
 	printf("%lf", (double) n1/n2);	
 	printf("\n");
 
+
+
+
+
 	return 0;
 }
